@@ -7,6 +7,7 @@ This project can be devided into 4 major functions :
   - get_answers(): this functions gets the input answer from the user and handles the invalid answers.
   - ask_question() : prints the question, the alternatives and checks whether the answer is correct.
   - run_quiz(): runs the quiz.
+
 I also used input control and added optional hints for the users.
 The topics, questions and answers are saved in a separate TOML file.
 In this project, I used different data structures such as :
